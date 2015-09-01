@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Standford:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Standford_jar</output-path>
+    <root id="archive" name="Standford.jar">
+      <element id="module-output" name="Standford" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/postgresql-9.4-1201.jdbc41.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/com.springsource.org.json-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/stanford-segmenter-3.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
